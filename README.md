@@ -17,3 +17,10 @@ inshort
 >git clone https://github.com/RisingLamp/CarInventoryManagerByRising.git 
 >cd CarInventoryManagerByRising
 >java Main
+
+
+OUTPUT :
+
+![image](https://github.com/RisingLamp/CarInventoryManagerByRising/assets/149622810/c65e2655-e6c4-4779-b351-b38d8d39a781)
+
+![image](https://github.com/RisingLamp/CarInventoryManagerByRising/assets/149622810/f2974e4b-d773-4d0f-aca3-a6c766b17491)
